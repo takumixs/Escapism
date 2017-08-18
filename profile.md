@@ -17,7 +17,9 @@ permalink: /profile/
 <hr>
 
 # {{ site.author_2 | escape }}
-TBD
+一般的な大学院生
+「現実逃避跡地」の代表に誘われてカクヨムへの投稿をはじめる
+最近は散文詩を読むことにはまっている
 <ul class="social-media-list">
     <li>{% include icon-twitter.html username=site.twitter_username_2 %}</li>
     <li>カクヨム <a href="https://kakuyomu.jp/users/tkmx">tkmx</a></li>
